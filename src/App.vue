@@ -5,7 +5,6 @@
 	  <p>java 0923 都会拿高薪</p>
       <p>java0923 全体同学 争取第一周入职 第二周转正,第三周升为组长,第四周董事会</p>
       <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3101694723,748884042&fm=26&gp=0.jpg"/><br>
-      <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3101694723,748884042&fm=26&gp=0.jpg"/>
 
   </div>
 </template>
